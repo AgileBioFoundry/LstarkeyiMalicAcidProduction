@@ -10,7 +10,7 @@
 
 Medium components have a profound impact on production of microbial products. The effects of metals and vitamins on *L. starkeyi* malic acid production is being explored here. The Automated Recommendation Tool ([ART](https://www.nature.com/articles/s41467-020-18008-4)) is a machine learning based tool for bioproduction applications. The tool has been designed to provide both initial design of experiment and recommendations for further designs. The algorithm uses [Latin Hypercube Sampling](https://en.wikipedia.org/wiki/Latin_hypercube_sampling) to combinatorally explore the initial design space. 
 
-A media optimization pipeline has been described using ART ([Zournas A et al., 2024: DOI: 10.21203/rs.3.rs-5072705/v1](https://www.researchsquare.com/article/rs-5072705/v1), and it is leveraged here to perform medium optimization in engineered _Lipomyces starkeyi_. 
+A media optimization pipeline has been described using ART ([Zournas A et al.](2024: DOI: 10.21203/rs.3.rs-5072705/v1](https://www.researchsquare.com/article/rs-5072705/v1)), and it is leveraged here to perform medium optimization in engineered _Lipomyces starkeyi_. 
 
 Information about licensing ART is available at https://github.com/JBEI/ART. See [Radivojević et al](https://www.nature.com/articles/s41467-020-18008-4) for more information on ART. 
 
