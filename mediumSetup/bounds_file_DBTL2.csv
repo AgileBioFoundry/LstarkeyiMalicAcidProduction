@@ -1,0 +1,19 @@
+"Variable","Min","Max"
+"KH2PO4",0.25,5
+"NH4Cl",0.5,5
+"KCl",0.05,5
+"MgSO4*7H2O",0.005,5
+"ZnSO4·7H2O",2.25E-05,0.5
+"H3BO3",0.00011,1.1
+"MnCl2·4H2O",5E-05,0.5
+"FeSO4·7H2O",5E-05,0.5
+"CoCl2·6H2O",1.7E-05,0.5
+"CuSO4·5H20",1.6E-05,0.5
+"Na2MoO4·2H2O",8.5E-07,0.1
+"Na4EDTA",5E-05,2.5
+"biotin",1E-06,0.01
+"pyridoxine",1E-06,0.01
+"thiamine",1E-06,0.01
+"riboflavin",1E-06,0.075
+"para-aminobenzoic acid",1E-06,0.01
+"nicotinic acid",1E-06,0.01

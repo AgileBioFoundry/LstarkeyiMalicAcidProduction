@@ -1,0 +1,22 @@
+﻿Ingrediant,Standard concentration (LPM-40-50),Min,Max,,Solubility [g/L]
+glucose,26.35,,,,
+xylose,13.65,,,,
+DMR hydrolysate,0,,,,
+KH2PO4,1.5,0.25,5,*100 fold increase/decrease,220
+NH4Cl,1.43,0.5,5,*100 fold increase/decrease,283
+KCl,0.5,0.05,5,*100 fold increase/decrease,355
+MgSO4*7H2O,0.5,0.005,5,*100 fold increase/decrease,100
+ZnSO4·7H2O,0.00225,0.0000225,0.5,*200 fold increase/decrease,54
+H3BO3,0.011,0.00011,1.1,*100 fold increase/decrease,50
+MnCl2·4H2O,0.005,0.00005,0.5,*100 fold increase/decrease,739
+FeSO4·7H2O,0.005,0.00005,0.5,*100 fold increase/decrease,446
+CoCl2·6H2O,0.0017,0.000017,0.5,*100 fold increase/decrease,530
+CuSO4·5H20,0.0016,0.000016,0.5,*100 fold increase/decrease,203
+Na2MoO4·2H2O,0.000085,0.00000085,0.1,*1000 fold increase/100 decrease,840
+Na4EDTA,0.005,0.00005,2.5,*100 fold increase/decrease,550
+biotin,0.0001,0.000001,0.01,*100 fold increase/decrease,0.22
+pyridoxine,0.0001,0.000001,0.01,*100 fold increase/decrease,220
+thiamine,0.0001,0.000001,0.01,*100 fold increase/decrease,500
+riboflavin,0.0001,0.000001,0.075,"*80 fold increase, solubility limits",0.0847
+para-aminobenzoic acid,0.0001,0.000001,0.01,*100 fold increase/decrease,5.39
+nicotinic acid,0.0001,0.000001,0.01,*100 fold increase/decrease,18
