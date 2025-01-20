@@ -36,7 +36,7 @@ The medium optimization utilized the Automated Recommendation Tool.
 
 ## Reference
 
-This work is currently under review (21 Nov 2024). 
+This work is currently under review. 
 
 ## License
 
